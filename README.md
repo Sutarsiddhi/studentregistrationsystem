@@ -19,4 +19,5 @@ This project invloved a student registration app with REST API integration and c
 
 💻Deployment Link:
 You can check this project here:
-https://lnkd.in/d8fQ9F8W
+https://siddhirameshsutar2003.pythonanywhere.com/
+
